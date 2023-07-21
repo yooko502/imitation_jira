@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", // 定义查找的绝对路径地址，防止相对路径嵌套过多
     "target": "es5",
     "lib": [
       "dom",
